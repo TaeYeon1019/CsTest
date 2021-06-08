@@ -1,0 +1,9 @@
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\bin\Debug\net472\CompositeModel.exe.config
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\bin\Debug\net472\CompositeModel.exe
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\bin\Debug\net472\CompositeModel.pdb
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.csprojAssemblyReference.cache
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.AssemblyInfoInputs.cache
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.AssemblyInfo.cs
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.csproj.CoreCompileInputs.cache
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.exe
+E:\CsTest\DesignModel\CompositeModel\CompositeModel\obj\Debug\net472\CompositeModel.pdb

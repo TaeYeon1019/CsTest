@@ -1,0 +1,9 @@
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\bin\Debug\net472\StrategyModel.exe.config
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\bin\Debug\net472\StrategyModel.exe
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\bin\Debug\net472\StrategyModel.pdb
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.csprojAssemblyReference.cache
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.AssemblyInfoInputs.cache
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.AssemblyInfo.cs
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.csproj.CoreCompileInputs.cache
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.exe
+E:\CsTest\DesignModel\StrategyModel\StrategyModel\obj\Debug\net472\StrategyModel.pdb
