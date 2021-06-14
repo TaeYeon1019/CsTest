@@ -1,0 +1,9 @@
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\bin\Debug\net472\PrototypeDM.exe.config
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\bin\Debug\net472\PrototypeDM.exe
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\bin\Debug\net472\PrototypeDM.pdb
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.csprojAssemblyReference.cache
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.AssemblyInfoInputs.cache
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.AssemblyInfo.cs
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.csproj.CoreCompileInputs.cache
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.exe
+E:\CsTest\DesignModel\PrototypeDM\PrototypeDM\obj\Debug\net472\PrototypeDM.pdb
