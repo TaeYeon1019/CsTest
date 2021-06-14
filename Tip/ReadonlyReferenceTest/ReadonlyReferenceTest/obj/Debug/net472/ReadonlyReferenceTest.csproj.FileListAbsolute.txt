@@ -1,0 +1,9 @@
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\bin\Debug\net472\ReadonlyReferenceTest.exe.config
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\bin\Debug\net472\ReadonlyReferenceTest.exe
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\bin\Debug\net472\ReadonlyReferenceTest.pdb
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.csprojAssemblyReference.cache
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.AssemblyInfoInputs.cache
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.AssemblyInfo.cs
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.csproj.CoreCompileInputs.cache
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.exe
+E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest\obj\Debug\net472\ReadonlyReferenceTest.pdb

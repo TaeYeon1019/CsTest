@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Amor\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Amor\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_.-318684944.00" t="ExcludeRecursive" />
+    <e p="E:\CsTest\Tip\ReadonlyReferenceTest\ReadonlyReferenceTest" t="IncludeRecursive">
+      <e p=".sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net472" t="Include">
+            <e p="ReadonlyReferenceTest.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="ReadonlyReferenceTest.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
